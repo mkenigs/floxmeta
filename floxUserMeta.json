@@ -1,6 +1,7 @@
 {
   "channels": {
-    "flox-examples": "github:flox-examples/floxpkgs"
+    "flox-examples": "github:flox-examples/floxpkgs",
+    "flox-mkenigs": "github:flox/floxpkgs/mkenigs/debug"
   },
   "defaultFlake": "git+ssh://git@github.com/flox/floxpkgs?ref=master",
   "defaultSubstituter": "https://cache.floxdev.com?trusted=1",
