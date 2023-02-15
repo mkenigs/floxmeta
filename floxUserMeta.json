@@ -6,7 +6,7 @@
   },
   "defaultFlake": "git+ssh://git@github.com/flox/floxpkgs?ref=master",
   "defaultSubstituter": "https://cache.floxdev.com?trusted=1",
-  "educatePublish": 0,
+  "educatePublish": 1,
   "floxClientUUID": "ceb6daf2-8853-11ed-a340-7230bc7c293e",
   "floxMetricsConsent": 0,
   "gitBaseURL": "git+ssh@github.com:",
