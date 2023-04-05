@@ -1,0 +1,294 @@
+{
+  "nixpkgs-flox": {
+    "aarch64-darwin": {
+      "stable": {
+        "jq": {
+          "latest": {
+            "build": {
+              "hasBin": false,
+              "hasMan": false
+            },
+            "element": {
+              "active": true,
+              "attrPath": [
+                "evalCatalog",
+                "aarch64-darwin",
+                "stable",
+                "jq"
+              ],
+              "originalUrl": "flake:nixpkgs-flox",
+              "storePaths": [
+                "/nix/store/71rbj3g7lcp0k0b623k1fmjfw8mln6wf-jq-1.6"
+              ],
+              "url": "flake:nixpkgs-flox/9b0c53b11f02d69c53e0aea5b5a07e75a63432c0"
+            },
+            "eval": {
+              "attrPath": [
+                "evalCatalog",
+                "aarch64-darwin",
+                "stable",
+                "jq"
+              ],
+              "drvPath": "/nix/store/cp682i9d69prn00vjg8sk27h6f9n2g1j-jq-1.6.drv",
+              "meta": {
+                "description": "A lightweight and flexible command-line JSON processor",
+                "position": "/nix/store/y34pw71w25ay4j5bm5239m8gw0pp4w63-source/pkgs/development/tools/jq/default.nix:63",
+                "publishData": {
+                  "cache": {
+                    "bin": {
+                      "https://cache.nixos.org": {}
+                    },
+                    "dev": {
+                      "https://cache.nixos.org": {}
+                    },
+                    "doc": {
+                      "https://cache.nixos.org": {}
+                    },
+                    "lib": {
+                      "https://cache.nixos.org": {}
+                    },
+                    "man": {
+                      "https://cache.nixos.org": {}
+                    },
+                    "out": {
+                      "https://cache.nixos.org": {}
+                    }
+                  },
+                  "element": {
+                    "attrPath": [
+                      "legacyPackages",
+                      "aarch64-darwin",
+                      "jq"
+                    ],
+                    "originalUrl": "flake:nixpkgs",
+                    "storePaths": [
+                      "/nix/store/3xxpk5nhfq92dx5kn63nknbzv9j49yk2-jq-1.6-bin",
+                      "/nix/store/pd17jljgplhyz31vgf5z5j6wrp4rlpp3-jq-1.6-man"
+                    ],
+                    "url": "github:flox/nixpkgs/60c1d71f2ba4c80178ec84523c2ca0801522e0a6"
+                  },
+                  "eval": {
+                    "meta": {
+                      "description": "A lightweight and flexible command-line JSON processor",
+                      "outputsToInstall": [
+                        "bin",
+                        "man"
+                      ],
+                      "position": "/nix/store/y34pw71w25ay4j5bm5239m8gw0pp4w63-source/pkgs/development/tools/jq/default.nix:63",
+                      "unfree": false
+                    },
+                    "name": "jq-1.6",
+                    "outputs": {
+                      "bin": "/nix/store/3xxpk5nhfq92dx5kn63nknbzv9j49yk2-jq-1.6-bin",
+                      "dev": "/nix/store/166047mz0a9p9hp536xpdf6fazh0jlga-jq-1.6-dev",
+                      "doc": "/nix/store/d9cw7m0wgf9jd5403ad69kairvqi4viy-jq-1.6-doc",
+                      "lib": "/nix/store/48ss3h5msfl02c5liflk1d3kf3yryzwd-jq-1.6-lib",
+                      "man": "/nix/store/pd17jljgplhyz31vgf5z5j6wrp4rlpp3-jq-1.6-man",
+                      "out": "/nix/store/91mmzz0mlmd0mvdj15n0kqkrbq6iak42-jq-1.6"
+                    },
+                    "pname": "jq",
+                    "system": "aarch64-darwin",
+                    "version": "1.6"
+                  },
+                  "source": {
+                    "locked": {
+                      "lastModified": 1679262748,
+                      "revCount": 466020
+                    }
+                  },
+                  "type": "catalogRender",
+                  "version": 1
+                },
+                "unfree": false
+              },
+              "name": "jq-1.6",
+              "namespace": [],
+              "outputs": {
+                "out": "/nix/store/71rbj3g7lcp0k0b623k1fmjfw8mln6wf-jq-1.6"
+              },
+              "pname": "jq",
+              "system": "aarch64-darwin",
+              "version": "1.6"
+            }
+          }
+        },
+        "openssh": {
+          "latest": {
+            "build": {
+              "hasBin": false,
+              "hasMan": false
+            },
+            "element": {
+              "active": true,
+              "attrPath": [
+                "evalCatalog",
+                "aarch64-darwin",
+                "stable",
+                "openssh"
+              ],
+              "originalUrl": "flake:nixpkgs-flox",
+              "storePaths": [
+                "/nix/store/1xnb322wxrpkixgw6rswwpnjn9dvcfkh-openssh-9.2p1"
+              ],
+              "url": "flake:nixpkgs-flox/9b0c53b11f02d69c53e0aea5b5a07e75a63432c0"
+            },
+            "eval": {
+              "attrPath": [
+                "evalCatalog",
+                "aarch64-darwin",
+                "stable",
+                "openssh"
+              ],
+              "drvPath": "/nix/store/h4p4iy5j3lmi7ycx832f9gk3b9qslh1d-openssh-9.2p1.drv",
+              "meta": {
+                "description": "An implementation of the SSH protocol",
+                "position": "/nix/store/y34pw71w25ay4j5bm5239m8gw0pp4w63-source/pkgs/tools/networking/openssh/common.nix:169",
+                "publishData": {
+                  "cache": {
+                    "out": {
+                      "https://cache.nixos.org": {}
+                    }
+                  },
+                  "element": {
+                    "attrPath": [
+                      "legacyPackages",
+                      "aarch64-darwin",
+                      "openssh"
+                    ],
+                    "originalUrl": "flake:nixpkgs",
+                    "storePaths": [
+                      "/nix/store/zaaqwdpixjsvhm0ankv4c8r0aqd6d3ci-openssh-9.2p1"
+                    ],
+                    "url": "github:flox/nixpkgs/60c1d71f2ba4c80178ec84523c2ca0801522e0a6"
+                  },
+                  "eval": {
+                    "meta": {
+                      "description": "An implementation of the SSH protocol",
+                      "outputsToInstall": [
+                        "out"
+                      ],
+                      "position": "/nix/store/y34pw71w25ay4j5bm5239m8gw0pp4w63-source/pkgs/tools/networking/openssh/common.nix:169",
+                      "unfree": false
+                    },
+                    "name": "openssh-9.2p1",
+                    "outputs": {
+                      "out": "/nix/store/zaaqwdpixjsvhm0ankv4c8r0aqd6d3ci-openssh-9.2p1"
+                    },
+                    "pname": "openssh",
+                    "system": "aarch64-darwin",
+                    "version": "9.2p1"
+                  },
+                  "source": {
+                    "locked": {
+                      "lastModified": 1679262748,
+                      "revCount": 466020
+                    }
+                  },
+                  "type": "catalogRender",
+                  "version": 1
+                },
+                "unfree": false
+              },
+              "name": "openssh-9.2p1",
+              "namespace": [],
+              "outputs": {
+                "out": "/nix/store/1xnb322wxrpkixgw6rswwpnjn9dvcfkh-openssh-9.2p1"
+              },
+              "pname": "openssh",
+              "system": "aarch64-darwin",
+              "version": "9.2p1"
+            }
+          }
+        },
+        "ripgrep": {
+          "latest": {
+            "build": {
+              "hasBin": false,
+              "hasMan": false
+            },
+            "element": {
+              "active": true,
+              "attrPath": [
+                "evalCatalog",
+                "aarch64-darwin",
+                "stable",
+                "ripgrep"
+              ],
+              "originalUrl": "flake:nixpkgs-flox",
+              "storePaths": [
+                "/nix/store/c30msy5rffqc9k6hjbz49z9m9jl8cvlm-ripgrep-13.0.0"
+              ],
+              "url": "flake:nixpkgs-flox/9b0c53b11f02d69c53e0aea5b5a07e75a63432c0"
+            },
+            "eval": {
+              "attrPath": [
+                "evalCatalog",
+                "aarch64-darwin",
+                "stable",
+                "ripgrep"
+              ],
+              "drvPath": "/nix/store/142cxcvl81rsld9c13rin082202fw1cz-ripgrep-13.0.0.drv",
+              "meta": {
+                "description": "A utility that combines the usability of The Silver Searcher with the raw speed of grep",
+                "position": "/nix/store/y34pw71w25ay4j5bm5239m8gw0pp4w63-source/pkgs/tools/text/ripgrep/default.nix:52",
+                "publishData": {
+                  "cache": {
+                    "out": {
+                      "https://cache.nixos.org": {}
+                    }
+                  },
+                  "element": {
+                    "attrPath": [
+                      "legacyPackages",
+                      "aarch64-darwin",
+                      "ripgrep"
+                    ],
+                    "originalUrl": "flake:nixpkgs",
+                    "storePaths": [
+                      "/nix/store/nq264kpj15cwxbdmvnwpvw3g68vz9jkr-ripgrep-13.0.0"
+                    ],
+                    "url": "github:flox/nixpkgs/60c1d71f2ba4c80178ec84523c2ca0801522e0a6"
+                  },
+                  "eval": {
+                    "meta": {
+                      "description": "A utility that combines the usability of The Silver Searcher with the raw speed of grep",
+                      "outputsToInstall": [
+                        "out"
+                      ],
+                      "position": "/nix/store/y34pw71w25ay4j5bm5239m8gw0pp4w63-source/pkgs/tools/text/ripgrep/default.nix:52",
+                      "unfree": false
+                    },
+                    "name": "ripgrep-13.0.0",
+                    "outputs": {
+                      "out": "/nix/store/nq264kpj15cwxbdmvnwpvw3g68vz9jkr-ripgrep-13.0.0"
+                    },
+                    "pname": "ripgrep",
+                    "system": "aarch64-darwin",
+                    "version": "13.0.0"
+                  },
+                  "source": {
+                    "locked": {
+                      "lastModified": 1679262748,
+                      "revCount": 466020
+                    }
+                  },
+                  "type": "catalogRender",
+                  "version": 1
+                },
+                "unfree": false
+              },
+              "name": "ripgrep-13.0.0",
+              "namespace": [],
+              "outputs": {
+                "out": "/nix/store/c30msy5rffqc9k6hjbz49z9m9jl8cvlm-ripgrep-13.0.0"
+              },
+              "pname": "ripgrep",
+              "system": "aarch64-darwin",
+              "version": "13.0.0"
+            }
+          }
+        }
+      }
+    }
+  }
+}

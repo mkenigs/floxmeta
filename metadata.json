@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "currentGen": "1",
+  "generations": {
+    "1": {
+      "path": "/nix/store/jaz15pwlzrv9b3gs052czydzv4dnax3c-floxShell",
+      "logMessage": [
+        "matthew installed stable.nixpkgs-flox.openssh stable.nixpkgs-flox.ripgrep stable.nixpkgs-flox.jq"
+      ],
+      "created": 1680714788,
+      "lastActive": 1680714788,
+      "version": 2
+    }
+  }
+}
