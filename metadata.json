@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "currentGen": "4",
+  "currentGen": "5",
   "generations": {
     "1": {
       "path": "/nix/store/jaz15pwlzrv9b3gs052czydzv4dnax3c-floxShell",
@@ -35,7 +35,16 @@
         "matthew installed stable.nixpkgs-flox.neovim"
       ],
       "created": 1680715186,
-      "lastActive": 1680715186,
+      "lastActive": 1680715236,
+      "version": 2
+    },
+    "5": {
+      "path": "/nix/store/v3dmw4d117hxaj7crq6kpdmviwm9fvyc-floxShell",
+      "logMessage": [
+        "matthew installed stable.nixpkgs-flox.python"
+      ],
+      "created": 1680715236,
+      "lastActive": 1680715236,
       "version": 2
     }
   }
