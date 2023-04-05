@@ -1,51 +1,60 @@
 {
-  "version": 1,
-  "currentGen": "5",
+  "currentGen": "6",
   "generations": {
     "1": {
-      "path": "/nix/store/jaz15pwlzrv9b3gs052czydzv4dnax3c-floxShell",
+      "created": 1680714788,
+      "lastActive": 1680714960,
       "logMessage": [
         "matthew installed stable.nixpkgs-flox.openssh stable.nixpkgs-flox.ripgrep stable.nixpkgs-flox.jq"
       ],
-      "created": 1680714788,
-      "lastActive": 1680714960,
+      "path": "/nix/store/jaz15pwlzrv9b3gs052czydzv4dnax3c-floxShell",
       "version": 2
     },
     "2": {
-      "path": "/nix/store/nzyf5a4igjphgq71z9hpv2y08m70l32i-floxShell",
+      "created": 1680714960,
+      "lastActive": 1680714974,
       "logMessage": [
         "matthew installed stable.nixpkgs-flox.curl"
       ],
-      "created": 1680714960,
-      "lastActive": 1680714974,
+      "path": "/nix/store/nzyf5a4igjphgq71z9hpv2y08m70l32i-floxShell",
       "version": 2
     },
     "3": {
-      "path": "/nix/store/pfn12li8fy171nzhmayrz70ymjdkzw9q-floxShell",
+      "created": 1680714974,
+      "lastActive": 1680715186,
       "logMessage": [
         "matthew installed stable.nixpkgs-flox.hello"
       ],
-      "created": 1680714974,
-      "lastActive": 1680715186,
+      "path": "/nix/store/pfn12li8fy171nzhmayrz70ymjdkzw9q-floxShell",
       "version": 2
     },
     "4": {
-      "path": "/nix/store/9inqv45b87ar8zfvd905k8gws4dbsxqh-floxShell",
+      "created": 1680715186,
+      "lastActive": 1680715236,
       "logMessage": [
         "matthew installed stable.nixpkgs-flox.neovim"
       ],
-      "created": 1680715186,
-      "lastActive": 1680715236,
+      "path": "/nix/store/9inqv45b87ar8zfvd905k8gws4dbsxqh-floxShell",
       "version": 2
     },
     "5": {
-      "path": "/nix/store/v3dmw4d117hxaj7crq6kpdmviwm9fvyc-floxShell",
+      "created": 1680715236,
+      "lastActive": 1680716046,
       "logMessage": [
         "matthew installed stable.nixpkgs-flox.python"
       ],
-      "created": 1680715236,
-      "lastActive": 1680715236,
+      "path": "/nix/store/v3dmw4d117hxaj7crq6kpdmviwm9fvyc-floxShell",
+      "version": 2
+    },
+    "6": {
+      "created": 1680716046,
+      "lastActive": 1680716046,
+      "logMessage": [
+        "matthew installed stable.nixpkgs-flox.jq stable.nixpkgs-flox.neovim stable.nixpkgs-flox.openssh stable.nixpkgs-flox.ripgrep"
+      ],
+      "path": "/nix/store/hbca9gnr3q9h9h67jmwpabdzqy58vvbl-floxShell",
       "version": 2
     }
-  }
+  },
+  "version": 1
 }
