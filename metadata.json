@@ -1,5 +1,5 @@
 {
-  "currentGen": "9",
+  "currentGen": "10",
   "generations": {
     "1": {
       "created": 1680714788,
@@ -8,6 +8,15 @@
         "matthew installed stable.nixpkgs-flox.openssh stable.nixpkgs-flox.ripgrep stable.nixpkgs-flox.jq"
       ],
       "path": "/nix/store/jaz15pwlzrv9b3gs052czydzv4dnax3c-floxShell",
+      "version": 2
+    },
+    "10": {
+      "created": 1681233081,
+      "lastActive": 1681233081,
+      "logMessage": [
+        "matthew installed stable.nixpkgs-flox.alejandra"
+      ],
+      "path": "/nix/store/gzzfg5klbhar011cs0ypfj98445higzh-floxShell",
       "version": 2
     },
     "2": {
@@ -75,7 +84,7 @@
     },
     "9": {
       "created": 1681231733,
-      "lastActive": 1681231733,
+      "lastActive": 1681233081,
       "logMessage": [
         "matthew installed stable.flox.flox-prerelease"
       ],
