@@ -1,5 +1,5 @@
 {
-  "currentGen": "12",
+  "currentGen": "13",
   "generations": {
     "1": {
       "created": 1680714788,
@@ -30,11 +30,20 @@
     },
     "12": {
       "created": 1681835904,
-      "lastActive": 1681835904,
+      "lastActive": 1681835960,
       "logMessage": [
         "matthew installed stable.nixpkgs-flox.podman"
       ],
       "path": "/nix/store/bmzag1y7cs1kkd0prh83ijy3iqnq0fi7-floxShell",
+      "version": 2
+    },
+    "13": {
+      "created": 1681835960,
+      "lastActive": 1681835960,
+      "logMessage": [
+        "matthew installed stable.nixpkgs-flox.qemu"
+      ],
+      "path": "/nix/store/vvb87sa2qmk479z095qn3vx7vqkffi2z-floxShell",
       "version": 2
     },
     "2": {
