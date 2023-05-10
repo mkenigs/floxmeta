@@ -1,5 +1,5 @@
 {
-  "currentGen": "22",
+  "currentGen": "23",
   "generations": {
     "1": {
       "created": 1680714788,
@@ -129,9 +129,18 @@
     },
     "22": {
       "created": 1683753054,
-      "lastActive": 1683753054,
+      "lastActive": 1683753086,
       "logMessage": [
         "matthew upgraded stable.flox.flox-prerelease"
+      ],
+      "path": "/nix/store/2kpgq3iaq27zzsrf3m5zbissaiz69lhl-floxShell",
+      "version": 2
+    },
+    "23": {
+      "created": 1683753086,
+      "lastActive": 1683753086,
+      "logMessage": [
+        "matthew edited declarative profile (generation 23)"
       ],
       "path": "/nix/store/2kpgq3iaq27zzsrf3m5zbissaiz69lhl-floxShell",
       "version": 2
