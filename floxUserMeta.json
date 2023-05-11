@@ -1,8 +1,7 @@
 {
   "channels": {
     "flox-mkenigs": "github:flox/floxpkgs/package-python-metadata",
-    "nixpkgs-flox-upgrade-test": "github:flox/nixpkgs-flox/master",
-    "tmp": "path:/tmp/channel"
+    "nixpkgs-flox-upgrade-test": "github:flox/nixpkgs-flox/master"
   },
   "defaultFlake": "git+ssh://git@github.com/flox/floxpkgs?ref=master",
   "defaultSubstituter": "https://cache.floxdev.com?trusted=1",
