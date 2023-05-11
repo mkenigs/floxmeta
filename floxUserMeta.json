@@ -1,6 +1,5 @@
 {
   "channels": {
-    "flox-examples": "github:flox-examples/floxpkgs",
     "flox-mkenigs": "github:flox/floxpkgs/package-python-metadata",
     "nixpkgs-flox-upgrade-test": "github:flox/nixpkgs-flox/master",
     "tmp": "path:/tmp/channel"
