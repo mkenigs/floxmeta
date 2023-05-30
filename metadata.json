@@ -1,5 +1,5 @@
 {
-  "currentGen": "31",
+  "currentGen": "32",
   "generations": {
     "1": {
       "created": 1680714788,
@@ -219,11 +219,20 @@
     },
     "31": {
       "created": 1685030863,
-      "lastActive": 1685030863,
+      "lastActive": 1685484010,
       "logMessage": [
         "matthew installed stable.nixpkgs-flox.git"
       ],
       "path": "/nix/store/p9s4mywv337d0abwkddppbx7ygdbxsz6-floxShell",
+      "version": 2
+    },
+    "32": {
+      "created": 1685484010,
+      "lastActive": 1685484010,
+      "logMessage": [
+        "matthew edited declarative profile (generation 32)"
+      ],
+      "path": "/nix/store/1gyj10riysq2nf4nzsq953sp74q3gf9n-floxShell",
       "version": 2
     },
     "4": {
