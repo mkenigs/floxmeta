@@ -1,5 +1,5 @@
 {
-  "currentGen": "38",
+  "currentGen": "39",
   "generations": {
     "1": {
       "created": 1680714788,
@@ -282,11 +282,20 @@
     },
     "38": {
       "created": 1685638428,
-      "lastActive": 1685638428,
+      "lastActive": 1685642486,
       "logMessage": [
         "matthew edited declarative profile (generation 38)"
       ],
       "path": "/nix/store/97c24l84mdcxqkqd75fhk1814ll3x2w5-floxShell",
+      "version": 2
+    },
+    "39": {
+      "created": 1685642486,
+      "lastActive": 1685642486,
+      "logMessage": [
+        "matthew removed stable.nixpkgs-flox.curl"
+      ],
+      "path": "/nix/store/kdy0qf1aqxw58vrb8m6armxw1knxf28s-floxShell",
       "version": 2
     },
     "4": {
