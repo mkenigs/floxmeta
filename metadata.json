@@ -1,5 +1,5 @@
 {
-  "currentGen": "39",
+  "currentGen": "40",
   "generations": {
     "1": {
       "created": 1680714788,
@@ -291,7 +291,7 @@
     },
     "39": {
       "created": 1685642486,
-      "lastActive": 1685642486,
+      "lastActive": 1685642504,
       "logMessage": [
         "matthew removed stable.nixpkgs-flox.curl"
       ],
@@ -305,6 +305,15 @@
         "matthew installed stable.nixpkgs-flox.neovim"
       ],
       "path": "/nix/store/9inqv45b87ar8zfvd905k8gws4dbsxqh-floxShell",
+      "version": 2
+    },
+    "40": {
+      "created": 1685642504,
+      "lastActive": 1685642504,
+      "logMessage": [
+        "matthew installed stable.nixpkgs-flox.curl"
+      ],
+      "path": "/nix/store/qx9gyqpnkbs9k4b4slc024z8kkxirjj4-floxShell",
       "version": 2
     },
     "5": {
