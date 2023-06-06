@@ -1,6 +1,5 @@
 {
   "channels": {
-    "flakebump": "github:flox-examples/floxpkgs/flakebump",
     "flox-examples": "github:flox-examples/floxpkgs/master",
     "flox-mkenigs": "github:flox/floxpkgs/package-python-metadata"
   },
