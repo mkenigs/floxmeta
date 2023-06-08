@@ -1,5 +1,5 @@
 {
-  "currentGen": "43",
+  "currentGen": "44",
   "generations": {
     "1": {
       "created": 1680714788,
@@ -336,11 +336,20 @@
     },
     "43": {
       "created": 1686067109,
-      "lastActive": 1686067109,
+      "lastActive": 1686248888,
       "logMessage": [
         "matthew removed stable.flox.flox-prerelease"
       ],
       "path": "/nix/store/9vjaya66bhnzabsp225wb5k2zn64gvk9-floxShell",
+      "version": 2
+    },
+    "44": {
+      "created": 1686248888,
+      "lastActive": 1686248888,
+      "logMessage": [
+        "matthew installed stable.nixpkgs-flox.postman.fromSource"
+      ],
+      "path": "/nix/store/5iqwdhb61yz748q1kjkp2blnbb9kahr5-floxShell",
       "version": 2
     },
     "5": {
