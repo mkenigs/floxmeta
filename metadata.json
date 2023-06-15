@@ -1,5 +1,5 @@
 {
-  "currentGen": "13",
+  "currentGen": "1",
   "generations": {
     "1": {
       "created": 1680714788,
@@ -39,7 +39,7 @@
     },
     "13": {
       "created": 1681835960,
-      "lastActive": 1681835960,
+      "lastActive": 1686856549,
       "logMessage": [
         "matthew installed stable.nixpkgs-flox.qemu"
       ],
