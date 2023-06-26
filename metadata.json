@@ -1,5 +1,5 @@
 {
-  "currentGen": "47",
+  "currentGen": "48",
   "generations": {
     "1": {
       "created": 1680714788,
@@ -372,11 +372,20 @@
     },
     "47": {
       "created": 1687563453,
-      "lastActive": 1687563453,
+      "lastActive": 1687799546,
       "logMessage": [
         "matthew installed stable.nixpkgs-flox.skopeo"
       ],
       "path": "/nix/store/v60jcci2a9ad52n677s4882v59ampga7-floxShell",
+      "version": 2
+    },
+    "48": {
+      "created": 1687799546,
+      "lastActive": 1687799546,
+      "logMessage": [
+        "matthew installed stable.nixpkgs-flox.nix-eval-jobs"
+      ],
+      "path": "/nix/store/kij06lzls6qx0ky99grww766h3l5656p-floxShell",
       "version": 2
     },
     "5": {
